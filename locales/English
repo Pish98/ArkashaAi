@@ -1,0 +1,15 @@
+help_command_description                    Help
+ping_command_description                    Show bot ping
+available_to_you                            Available to you
+description                                 Description
+alias                                       Aliases
+examples                                    Examples
+this_command_does_not_exist                 This command does not exist
+command_list                                Command list
+detailed_information_about_command          Detailed information about command
+wait_for_the_previous_command_to_finish     Wait for the previous command to finish
+you_are_not_a_bot_creator_of_this_bot       You are not a bot creator of this bot
+you_have_no_permission                      You have no permission
+pong                                        Pong
+Yes                                         Yes
+No                                          No

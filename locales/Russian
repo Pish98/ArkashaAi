@@ -1,0 +1,15 @@
+help_command_description                    Помощь
+ping_command_description                    Отображает задержку бота
+available_to_you                            Доступна для вас
+description                                 Описание
+alias                                       Альтернативное написание
+examples                                    Примеры использования
+this_command_does_not_exist                 Данная команда не существует
+command_list                                Список команд
+detailed_information_about_command          Подробная информация по команде
+wait_for_the_previous_command_to_finish     Дождитесь выполнения предыдущей команды
+you_are_not_a_bot_creator_of_this_bot       Вы не создатель этого бота
+you_have_no_permission                      У вас нет прав
+pong                                        Понг
+Yes                                         Да
+No                                          Нет
