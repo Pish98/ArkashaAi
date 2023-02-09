@@ -2,3 +2,4 @@
 .env
 LOGS
 dist
+node_modules
